@@ -1,4 +1,4 @@
-<br clear="both">
+ <br clear="both">
 
 <h2 align="center">Oi como vai? Bem-vindo ao meu perfil do Git. Me chamo Gabriel Almeida San Gregorio!</h2>
 
@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP"  />
+<img align="right" height="150" src="https://tenor.com/pt-BR/view/viciadoemcodar-gif-26484614"  />
 
 ###
 
