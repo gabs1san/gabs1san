@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/viciadoemcodar-gif-26484614"  />
+<img align="right" height="150" src="https://tenor.com/pt-BR/view/viciadoemcodar-gif-26484614.gif"  />
 
 ###
 
