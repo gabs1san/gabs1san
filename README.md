@@ -12,9 +12,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor Full Stack Júnior, Bacharel em Sistemas de Informação e atualmente cursando Análise e Desenvolvimento de Sistemas.
+Busco ser um Desenvolvedor Full Stack, Bacharel em Sistemas de Informação e atualmente cursando Análise e Desenvolvimento de Sistemas.
 
-Tenho foco em desenvolvimento web moderno, utilizando JavaScript, React e C#. Busco minha primeira oportunidade como desenvolvedor júnior para aplicar boas práticas, escrever código limpo e evoluir constantemente dentro de um time de tecnologia.
+Tenho foco em desenvolvimento e busco minha primeira oportunidade como desenvolvedor para aplicar boas práticas, escrever código limpo e evoluir constantemente dentro de um time de tecnologia.
 
 Sou organizado, comprometido e estou sempre buscando aprimorar minhas habilidades técnicas.
 
