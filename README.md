@@ -18,7 +18,6 @@
   </a>
 </div>
 
-
 ###
 
 <div align="center">
@@ -27,7 +26,17 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
+
+<h3 align="center">
+  Desenvolvedor Full Stack em formação apaixonado por tecnologia e desenvolvimento web 🚀
+</h3>
+
+###
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;C%23+and+.NET+Student;ASP.NET+MVC+Developer;Node.js+Student;Always+learning+new+technologies" alt="Typing SVG" />
+</div>
 
 ###
 
@@ -38,9 +47,11 @@
 <p align="left">
 🎓 Formado em Sistemas de Informação pela UNINOVE e atualmente cursando Análise e Desenvolvimento de Sistemas.<br><br>
 
-💻 Desenvolvedor .NET em formação, focado em backend e desenvolvimento de aplicações web.<br><br>
+💻 Desenvolvedor Full Stack em formação, focado no desenvolvimento de aplicações web.<br><br>
 
-📚 Atualmente estudando C#, ASP.NET MVC, Node.js, SQL Server, MongoDB, Postman e Docker.
+📚 Atualmente estudando C#, ASP.NET MVC, Node.js, SQL Server, MongoDB, Docker, Postman, HTML e CSS.<br><br>
+
+⚡ Sempre buscando evoluir através de projetos práticos e novos desafios.
 </p>
 
 ###
@@ -85,6 +96,14 @@
 ###
 
 <h3 align="left">🔥 My Stats :</h3>
+
+###
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabs1san&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs1san&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ###
 
