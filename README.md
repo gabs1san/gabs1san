@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/gabriel-almeida-san-gregorio-4723a7218/?skipRedirect=true)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 
@@ -39,26 +39,20 @@
 </div>
 
 ###
+<details>
+<summary>👨‍💻 About Me</summary>
+  🎓 Formado em Sistemas de Informação pela UNINOVE e atualmente cursando Análise e Desenvolvimento de Sistemas.<br><br>
 
-<h3 align="left">👨‍💻 About Me</h3>
+  💻 Desenvolvedor Full Stack em formação, focado no desenvolvimento de aplicações web.<br><br>
 
-###
+  📚 Atualmente estudando C#, ASP.NET MVC, Node.js, SQL Server, MongoDB, Docker, Postman, HTML e CSS.<br><br>
 
-<p align="left">
-🎓 Formado em Sistemas de Informação pela UNINOVE e atualmente cursando Análise e Desenvolvimento de Sistemas.<br><br>
+  ⚡ Sempre buscando evoluir através de projetos práticos e novos desafios.
+</details>
 
-💻 Desenvolvedor Full Stack em formação, focado no desenvolvimento de aplicações web.<br><br>
 
-📚 Atualmente estudando C#, ASP.NET MVC, Node.js, SQL Server, MongoDB, Docker, Postman, HTML e CSS.<br><br>
-
-⚡ Sempre buscando evoluir através de projetos práticos e novos desafios.
-</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
 
@@ -100,10 +94,9 @@
 ###
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabs1san&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs1san&layout=compact&langs_count=7&theme=dracula"/>
+  ![gabs1san GitHub stats](https://github-readme-stats.vercel.app/api?username=gabs1san&show_icons=true&theme=dracula)
 </div>
+
 
 ###
 
