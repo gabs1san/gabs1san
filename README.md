@@ -94,7 +94,7 @@
 ###
 
 <div align="center">
-  ![gabs1san GitHub stats](https://github-readme-stats.vercel.app/api?username=gabs1san&show_icons=true&theme=dracula)
+ 
 </div>
 
 
